@@ -1,0 +1,1876 @@
+{
+  "movies": [
+    {
+      "Title": "Iron Man",
+      "Year": "2008",
+      "imdbID": "tt0371746",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Iron Man 3",
+      "Year": "2013",
+      "imdbID": "tt1300854",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Iron Man 2",
+      "Year": "2010",
+      "imdbID": "tt1228705",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Man of Steel",
+      "Year": "2013",
+      "imdbID": "tt0770828",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man",
+      "Year": "2002",
+      "imdbID": "tt0145487",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Amazing Spider-Man",
+      "Year": "2012",
+      "imdbID": "tt0948470",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ant-Man",
+      "Year": "2015",
+      "imdbID": "tt0478970",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man 2",
+      "Year": "2004",
+      "imdbID": "tt0316654",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man 3",
+      "Year": "2007",
+      "imdbID": "tt0413300",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Rain Man",
+      "Year": "1988",
+      "imdbID": "tt0095953",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzVjNzI4NzYtMjE4NS00M2IzLWFkOWMtOTYwMWUzN2ZlNGVjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man: Homecoming",
+      "Year": "2017",
+      "imdbID": "tt2250912",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Amazing Spider-Man 2",
+      "Year": "2014",
+      "imdbID": "tt1872181",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Inside Man",
+      "Year": "2006",
+      "imdbID": "tt0454848",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjc4MjA2ZDgtOGY3YS00NDYzLTlmNTEtYWMxMzcwZjgzYWNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Yes Man",
+      "Year": "2008",
+      "imdbID": "tt1068680",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzBmZTMzYmItNzhhMC00M2FkLWIxMGEtMjIxMjAwNmQ2ZmM4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Man on Fire",
+      "Year": "2004",
+      "imdbID": "tt0328107",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODFlMmEwMDgtYjhmZi00ZTE5LTk2NWQtMWE1Y2M0NjkzOGYxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ant-Man and the Wasp",
+      "Year": "2018",
+      "imdbID": "tt5095030",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Man from U.N.C.L.E.",
+      "Year": "2015",
+      "imdbID": "tt1638355",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZmMWFhYmQtZDE5YS00YzBlLWJlOGEtYzAwNGU1YzVlYjZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man: Into the Spider-Verse",
+      "Year": "2018",
+      "imdbID": "tt4633694",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Austin Powers: International Man of Mystery",
+      "Year": "1997",
+      "imdbID": "tt0118655",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTRhZTY0MDItY2I1Yi00MGE3LTk1ZDEtMjA0ZGZhNDQyNGU0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Elephant Man",
+      "Year": "1980",
+      "imdbID": "tt0080678",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ip Man",
+      "Year": "2008",
+      "imdbID": "tt1220719",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTFmMjM3M2UtOTIyZC00Zjk3LTkzODUtYTdhNGRmNzFhYzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "I Love You, Man",
+      "Year": "2009",
+      "imdbID": "tt1155056",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4MjI5NTEyNV5BMl5BanBnXkFtZTcwNjQ1NTMzMg@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Cinderella Man",
+      "Year": "2005",
+      "imdbID": "tt0352248",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODEyYmQxZjUtZGQ0NS00ZTAwLTkwOGQtNGY2NzEwMWE0MDc3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Man from Earth",
+      "Year": "2007",
+      "imdbID": "tt0756683",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ5NGQwOTUtNWJlZi00ZTFiLWI0ZTEtOGU3MTA2ZGU5OWZiXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Man in the Iron Mask",
+      "Year": "1998",
+      "imdbID": "tt0120744",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjM2YzcxMmQtOTc2Mi00YjdhLWFlZjUtNmFmMDQzYzU2YTk5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Demolition Man",
+      "Year": "1993",
+      "imdbID": "tt0106697",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBmNDhjOTYtZWVlMC00YzUwLWIyZjEtYzFjMWM5OTdiZDJkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Third Man",
+      "Year": "1949",
+      "imdbID": "tt0041959",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Man on a Ledge",
+      "Year": "2012",
+      "imdbID": "tt1568338",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MTE4MzY2N15BMl5BanBnXkFtZTcwNjMwNDc3Ng@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "She's the Man",
+      "Year": "2006",
+      "imdbID": "tt0454945",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTE0NDk1YzAtNTUwZC00NmViLWI3YjgtY2ZjYWI2YjYzZjkyXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Running Man",
+      "Year": "1987",
+      "imdbID": "tt0093894",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU4NzA2OWYtNGQ0MS00YWNkLTg4M2YtZjlkZmY1YmJjMDE4XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "First Man",
+      "Year": "2018",
+      "imdbID": "tt1213641",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBhOTMxN2UtYjllYS00NWNiLWE1MzAtZjg3NmExODliMDQ0XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX300.jpg"
+    },
+    {
+      "Title": "A Serious Man",
+      "Year": "2009",
+      "imdbID": "tt1019452",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGZkODlhMjktNzhhMC00YjFiLWJmODMtNjQwOGMzZjMxNTZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Man on the Moon",
+      "Year": "1999",
+      "imdbID": "tt0125664",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI1Mjc3MzAtZDk0OS00OTZlLTlhZjktNzA3ODgwZGY2NWIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Hollow Man",
+      "Year": "2000",
+      "imdbID": "tt0164052",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTM1MjM2Y2QtOTMyOS00ZTE4LWFiZTEtMjBjMjg3NmE0ZjMxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man: Far from Home",
+      "Year": "2019",
+      "imdbID": "tt6320628",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Bicentennial Man",
+      "Year": "1999",
+      "imdbID": "tt0182789",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU4Nzg5YmItNzE0Yy00Y2VmLWI3OTYtNTFjODEzMDE0YTI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "A Single Man",
+      "Year": "2009",
+      "imdbID": "tt1315981",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzU5MTk4MjQ2M15BMl5BanBnXkFtZTcwNDU0MzEwMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Man Who Wasn't There",
+      "Year": "2001",
+      "imdbID": "tt0243133",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjEwMGZkYTgtMTA5Ny00OWFhLTgzMWItYjhhMWUxYTIxNDgwXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Family Man",
+      "Year": "2000",
+      "imdbID": "tt0218967",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzYzMTQ4NDYtNWRkZi00NTYxLThlZDItMzI1MmU1MmU5ZWQ3XkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Swiss Army Man",
+      "Year": "2016",
+      "imdbID": "tt4034354",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0OTEyMjM1OF5BMl5BanBnXkFtZTgwMzMzODM4ODE@._V1_SX300.jpg"
+    }
+  ],
+  "movie_details": {
+    "tt0371746": {
+      "Title": "Iron Man",
+      "Year": "2008",
+      "Rated": "PG-13",
+      "Released": "02 May 2008",
+      "Runtime": "126 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Jon Favreau",
+      "Writer": "Mark Fergus (screenplay), Hawk Ostby (screenplay), Art Marcum (screenplay), Matt Holloway (screenplay), Stan Lee (characters), Don Heck (characters), Larry Lieber (characters), Jack Kirby (characters)",
+      "Actors": "Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow",
+      "Plot": "Tony Stark. Genius, billionaire, playboy, philanthropist. Son of legendary inventor and weapons contractor Howard Stark. When Tony Stark is assigned to give a weapons presentation to an Iraqi unit led by Lt. Col. James Rhodes, he's given a ride on enemy lines. That ride ends badly when Stark's Humvee that he's riding in is attacked by enemy combatants. He survives - barely - with a chest full of shrapnel and a car battery attached to his heart. In order to survive he comes up with a way to miniaturize the battery and figures out that the battery can power something else. Thus Iron Man is born. He uses the primitive device to escape from the cave in Iraq. Once back home, he then begins work on perfecting the Iron Man suit. But the man who was put in charge of Stark Industries has plans of his own to take over Tony's technology for other matters.",
+      "Language": "English, Persian, Urdu, Arabic, Hungarian",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Oscars. Another 20 wins & 65 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "7.9",
+      "imdbVotes": "869,802",
+      "imdbID": "tt0371746",
+      "Type": "movie",
+      "DVD": "30 Sep 2008",
+      "BoxOffice": "$318,298,180",
+      "Production": "Paramount Pictures",
+      "Website": "http://www.ironmanmovie.com/",
+      "Response": "True"
+    },
+    "tt1300854": {
+      "Title": "Iron Man 3",
+      "Year": "2013",
+      "Rated": "PG-13",
+      "Released": "03 May 2013",
+      "Runtime": "130 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Shane Black",
+      "Writer": "Drew Pearce (screenplay by), Shane Black (screenplay by), Stan Lee (based on the Marvel comic book by), Don Heck (based on the Marvel comic book by), Larry Lieber (based on the Marvel comic book by), Jack Kirby (based on the Marvel comic book by), Warren Ellis (based on the \"Extremis\" mini-series written by), Adi Granov (based on the \"Extremis\" mini-series illustrated by)",
+      "Actors": "Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce",
+      "Plot": "Marvel's \"Iron Man 3\" pits brash-but-brilliant industrialist Tony Stark/Iron Man against an enemy whose reach knows no bounds. When Stark finds his personal world destroyed at his enemy's hands, he embarks on a harrowing quest to find those responsible. This journey, at every turn, will test his mettle. With his back against the wall, Stark is left to survive by his own devices, relying on his ingenuity and instincts to protect those closest to him. As he fights his way back, Stark discovers the answer to the question that has secretly haunted him: does the man make the suit or does the suit make the man?",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 17 wins & 61 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "Metascore": "62",
+      "imdbRating": "7.2",
+      "imdbVotes": "697,910",
+      "imdbID": "tt1300854",
+      "Type": "movie",
+      "DVD": "24 Sep 2013",
+      "BoxOffice": "$408,992,272",
+      "Production": "Walt Disney Pictures",
+      "Website": "http://IronManMovie3.com",
+      "Response": "True"
+    },
+    "tt1228705": {
+      "Title": "Iron Man 2",
+      "Year": "2010",
+      "Rated": "PG-13",
+      "Released": "07 May 2010",
+      "Runtime": "124 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Jon Favreau",
+      "Writer": "Justin Theroux (screenplay), Stan Lee (Marvel comic book), Don Heck (Marvel comic book), Larry Lieber (Marvel comic book), Jack Kirby (Marvel comic book)",
+      "Actors": "Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson",
+      "Plot": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press, and the public to share his technology with the military. Unwilling to let go of his invention, Stark, along with Pepper Potts, and James \"Rhodey\" Rhodes at his side, must forge new alliances - and confront powerful enemies.",
+      "Language": "English, French, Russian",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 7 wins & 42 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "57/100"
+        }
+      ],
+      "Metascore": "57",
+      "imdbRating": "7.0",
+      "imdbVotes": "661,819",
+      "imdbID": "tt1228705",
+      "Type": "movie",
+      "DVD": "28 Sep 2010",
+      "BoxOffice": "$312,057,433",
+      "Production": "Paramount Studios",
+      "Website": "http://www.ironmanmovie.com/",
+      "Response": "True"
+    },
+    "tt0770828": {
+      "Title": "Man of Steel",
+      "Year": "2013",
+      "Rated": "PG-13",
+      "Released": "14 Jun 2013",
+      "Runtime": "143 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Zack Snyder",
+      "Writer": "David S. Goyer (screenplay), David S. Goyer (story), Christopher Nolan (story), Jerry Siegel (Superman created by), Joe Shuster (Superman created by)",
+      "Actors": "Henry Cavill, Amy Adams, Michael Shannon, Diane Lane",
+      "Plot": "A young boy learns that he has extraordinary powers and is not of this Earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+      "Language": "English",
+      "Country": "USA, UK",
+      "Awards": "7 wins & 46 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "56%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "55/100"
+        }
+      ],
+      "Metascore": "55",
+      "imdbRating": "7.1",
+      "imdbVotes": "648,739",
+      "imdbID": "tt0770828",
+      "Type": "movie",
+      "DVD": "12 Nov 2013",
+      "BoxOffice": "$291,021,565",
+      "Production": "Warner Bros. Pictures",
+      "Website": "http://manofsteel.warnerbros.com",
+      "Response": "True"
+    },
+    "tt0145487": {
+      "Title": "Spider-Man",
+      "Year": "2002",
+      "Rated": "PG-13",
+      "Released": "03 May 2002",
+      "Runtime": "121 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Stan Lee (Marvel comic book), Steve Ditko (Marvel comic book), David Koepp (screenplay)",
+      "Actors": "Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco",
+      "Plot": "Based on Marvel Comics' superhero character, this is a story of Peter Parker who is a nerdy high-schooler. He was orphaned as a child, bullied by jocks, and can't confess his crush for his stunning neighborhood girl Mary Jane Watson. To say his life is \"miserable\" is an understatement. But one day while on an excursion to a laboratory a runaway radioactive spider bites him... and his life changes in a way no one could have imagined. Peter acquires a muscle-bound physique, clear vision, ability to cling to surfaces and crawl over walls, shooting webs from his wrist ... but the fun isn't going to last. An eccentric millionaire Norman Osborn administers a performance enhancing drug on himself and his maniacal alter ego Green Goblin emerges. Now Peter Parker has to become Spider-Man and take Green Goblin to the task... or else Goblin will kill him. They come face to face and the war begins in which only one of them will survive at the end.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Oscars. Another 16 wins & 58 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "7.3",
+      "imdbVotes": "640,512",
+      "imdbID": "tt0145487",
+      "Type": "movie",
+      "DVD": "01 Nov 2002",
+      "BoxOffice": "$403,706,375",
+      "Production": "Columbia Pictures",
+      "Website": "http://spiderman.sonypictures.com/",
+      "Response": "True"
+    },
+    "tt0948470": {
+      "Title": "The Amazing Spider-Man",
+      "Year": "2012",
+      "Rated": "PG-13",
+      "Released": "03 Jul 2012",
+      "Runtime": "136 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Marc Webb",
+      "Writer": "James Vanderbilt (screenplay), Alvin Sargent (screenplay), Steve Kloves (screenplay), James Vanderbilt (story), Stan Lee (based on the Marvel comic book by), Steve Ditko (based on the Marvel comic book by)",
+      "Actors": "Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary",
+      "Plot": "Peter Parker (Garfield) is an outcast high schooler who was abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben (Sheen) and Aunt May (Field). Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. Peter is also finding his way with his first high school crush, Gwen Stacy (Stone), and together, they struggle with love, commitment, and secrets. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance - leading him directly to Oscorp and the lab of Dr. Curt Connors (Ifans), his father's former partner. As Spider-Man is set on a collision course with Connors' alter-ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "2 wins & 31 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "72%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "7.0",
+      "imdbVotes": "528,039",
+      "imdbID": "tt0948470",
+      "Type": "movie",
+      "DVD": "09 Nov 2012",
+      "BoxOffice": "$262,030,663",
+      "Production": "Sony Pictures",
+      "Website": "http://www.theamazingspiderman.com/site/",
+      "Response": "True"
+    },
+    "tt0478970": {
+      "Title": "Ant-Man",
+      "Year": "2015",
+      "Rated": "PG-13",
+      "Released": "17 Jul 2015",
+      "Runtime": "117 min",
+      "Genre": "Action, Adventure, Comedy, Sci-Fi",
+      "Director": "Peyton Reed",
+      "Writer": "Edgar Wright (screenplay by), Joe Cornish (screenplay by), Adam McKay (screenplay by), Paul Rudd (screenplay by), Edgar Wright (story by), Joe Cornish (story by), Stan Lee (based on the Marvel comics by), Larry Lieber (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by)",
+      "Actors": "Paul Rudd, Michael Douglas, Evangeline Lilly, Corey Stoll",
+      "Plot": "Armed with the astonishing ability to shrink in scale but increase in strength, con-man Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 1 BAFTA Film Award. Another 3 wins & 32 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "7.3",
+      "imdbVotes": "503,130",
+      "imdbID": "tt0478970",
+      "Type": "movie",
+      "DVD": "08 Dec 2015",
+      "BoxOffice": "$138,002,223",
+      "Production": "Disney/Marvel",
+      "Website": "http://www.facebook.com/antman",
+      "Response": "True"
+    },
+    "tt0316654": {
+      "Title": "Spider-Man 2",
+      "Year": "2004",
+      "Rated": "PG-13",
+      "Released": "30 Jun 2004",
+      "Runtime": "127 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Stan Lee (comic book), Steve Ditko (comic book), Alfred Gough (screen story), Miles Millar (screen story), Michael Chabon (screen story), Alvin Sargent (screenplay)",
+      "Actors": "Tobey Maguire, Kirsten Dunst, James Franco, Alfred Molina",
+      "Plot": "Peter Parker is an unhappy man: after two years of fighting crime as Spider-Man, his life has begun to fall apart. The girl he loves is engaged to someone else, his grades are slipping, he cannot keep any of his jobs, and on top of it, the newspaper Daily Bugle is attacking him viciously, claiming that Spider-Man is a criminal. He reaches the breaking point and gives up the crime fighter's life, once and for all. But after a failed fusion experiment, eccentric and obsessive scientist Dr. Otto Octavius is transformed into super villain Doctor Octopus, Doc Ock for short, having four long tentacles as extra hands. Peter guesses it might just be time for Spider-Man to return, but would he act upon it?",
+      "Language": "English, Russian, Chinese",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 23 wins & 59 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "7.3",
+      "imdbVotes": "500,658",
+      "imdbID": "tt0316654",
+      "Type": "movie",
+      "DVD": "30 Nov 2004",
+      "BoxOffice": "$373,377,893",
+      "Production": "Sony Pictures",
+      "Website": "http://spiderman.sonypictures.com/",
+      "Response": "True"
+    },
+    "tt0413300": {
+      "Title": "Spider-Man 3",
+      "Year": "2007",
+      "Rated": "PG-13",
+      "Released": "04 May 2007",
+      "Runtime": "139 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Sam Raimi",
+      "Writer": "Sam Raimi (screenplay), Ivan Raimi (screenplay), Alvin Sargent (screenplay), Sam Raimi (screen story), Ivan Raimi (screen story), Stan Lee (Marvel comic book), Steve Ditko (Marvel comic book)",
+      "Actors": "Tobey Maguire, Kirsten Dunst, James Franco, Thomas Haden Church",
+      "Plot": "Peter Parker has finally managed to piece together the once-broken parts of his life, maintaining a balance between his relationship with Mary-Jane and his responsibility as Spider-Man. But more challenges arise for our young hero. Peter's old friend Harry Obsourne has set out for revenge against Peter; taking up the mantle of his late father's persona as The New Goblin, and Peter must also capture Uncle Ben's real killer, Flint Marko, who has been transformed into his toughest foe yet, the Sandman. All hope seems lost when suddenly Peter's suit turns jet-black and greatly amplifies his powers. But it also begins to greatly amplify the much darker qualities of Peter's personality that he begins to lose himself to. Peter has to reach deep inside himself to free the compassionate hero he used to be if he is to ever conquer the darkness within and face not only his greatest enemies, but also...himself.",
+      "Language": "English, French",
+      "Country": "USA",
+      "Awards": "Nominated for 1 BAFTA Film Award. Another 3 wins & 32 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "63%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "6.2",
+      "imdbVotes": "461,485",
+      "imdbID": "tt0413300",
+      "Type": "movie",
+      "DVD": "30 Oct 2007",
+      "BoxOffice": "$336,530,303",
+      "Production": "Sony Pictures",
+      "Website": "http://www.sonypictures.com/movies/spiderman3/site/",
+      "Response": "True"
+    },
+    "tt0095953": {
+      "Title": "Rain Man",
+      "Year": "1988",
+      "Rated": "R",
+      "Released": "16 Dec 1988",
+      "Runtime": "133 min",
+      "Genre": "Drama",
+      "Director": "Barry Levinson",
+      "Writer": "Barry Morrow (story), Ronald Bass (screenplay), Barry Morrow (screenplay)",
+      "Actors": "Dustin Hoffman, Tom Cruise, Valeria Golino, Gerald R. Molen",
+      "Plot": "Charles Sanford \"Charlie\" Babbit is a self-centered Los Angeles-based automobile dealer/hustler/bookie who is at war with his own life. Charlie, as a young teenager, used his father's 1949 Buick convertible without permission and as a result, he went to jail for two days on account that his father reported it stolen. It is then that Charlie learns that his estranged father died and left him from his last will and testament a huge bed of roses and the car while the remainder will of $3 Million goes into a trust fund to be distributed to someone. Charlie seemed pretty angry by this and decides to look into this matter. It seems as if that \"someone\" is Raymond, Charlie's unknown brother, an autistic savant who lives in a world of his own, resides at the Walbrook Institute. Charlie then kidnaps Raymond and decides to take him on a lust for life trip to the west coast as a threat to get the $3 Million inheritance. Raymond's acts and nagging, including repeated talks of \"Abbott & Costello\", \"Four minutes till Wapner\" and refusal to fly on an airline except Quantas drives Charlie insane... and out of his selfish world into a cross-country trek of pure love and understanding that these two both have.",
+      "Language": "English, Italian",
+      "Country": "USA",
+      "Awards": "Won 4 Oscars. Another 22 wins & 22 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzVjNzI4NzYtMjE4NS00M2IzLWFkOWMtOTYwMWUzN2ZlNGVjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "Metascore": "65",
+      "imdbRating": "8.0",
+      "imdbVotes": "441,434",
+      "imdbID": "tt0095953",
+      "Type": "movie",
+      "DVD": "01 Jan 2000",
+      "BoxOffice": "N/A",
+      "Production": "MGM",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "tt2250912": {
+      "Title": "Spider-Man: Homecoming",
+      "Year": "2017",
+      "Rated": "PG-13",
+      "Released": "07 Jul 2017",
+      "Runtime": "133 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Jon Watts",
+      "Writer": "Jonathan Goldstein (screenplay by), John Francis Daley (screenplay by), Jon Watts (screenplay by), Christopher Ford (screenplay by), Chris McKenna (screenplay by), Erik Sommers (screenplay by), Jonathan Goldstein (screen story by), John Francis Daley (screen story by), Stan Lee (based on the Marvel comic book by), Steve Ditko (based on the Marvel comic book by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by)",
+      "Actors": "Tom Holland, Michael Keaton, Robert Downey Jr., Marisa Tomei",
+      "Plot": "Thrilled by his experience with the Avengers, Peter returns home, where he lives with his Aunt May, under the watchful eye of his new mentor Tony Stark, Peter tries to fall back into his normal daily routine - distracted by thoughts of proving himself to be more than just your friendly neighborhood Spider-Man - but when the Vulture emerges as a new villain, everything that Peter holds most important will be threatened.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "4 wins & 9 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "7.5",
+      "imdbVotes": "428,373",
+      "imdbID": "tt2250912",
+      "Type": "movie",
+      "DVD": "17 Oct 2017",
+      "BoxOffice": "$334,166,825",
+      "Production": "Sony Pictures",
+      "Website": "http://www.sonypictures.com/movies/spidermanhomecoming/",
+      "Response": "True"
+    },
+    "tt1872181": {
+      "Title": "The Amazing Spider-Man 2",
+      "Year": "2014",
+      "Rated": "PG-13",
+      "Released": "02 May 2014",
+      "Runtime": "142 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Marc Webb",
+      "Writer": "Alex Kurtzman (screenplay), Roberto Orci (screenplay), Jeff Pinkner (screenplay), Alex Kurtzman (screen story), Roberto Orci (screen story), Jeff Pinkner (screen story), James Vanderbilt (screen story), Stan Lee (Marvel comic book), Steve Ditko (Marvel comic book)",
+      "Actors": "Andrew Garfield, Emma Stone, Jamie Foxx, Dane DeHaan",
+      "Plot": "We've always known that Spider-Man's most important conflict has been within himself: the struggle between the ordinary obligations of Peter Parker and the extraordinary responsibilities of Spider-Man. But in The Amazing Spider-Man 2, Peter Parker finds that his greatest battle is about to begin. It's great to be Spider-Man. For Peter Parker, there's no feeling quite like swinging between skyscrapers, embracing being the hero, and spending time with Gwen. But being Spider-Man comes at a price: only Spider-Man can protect his fellow New Yorkers from the formidable villains that threaten the city. With the emergence of Electro, Peter must confront a foe far more powerful than he. And as his old friend, Harry Osborn, returns, Peter comes to realize that all of his enemies have one thing in common: Oscorp.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "3 wins & 29 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "52%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "53/100"
+        }
+      ],
+      "Metascore": "53",
+      "imdbRating": "6.6",
+      "imdbVotes": "388,759",
+      "imdbID": "tt1872181",
+      "Type": "movie",
+      "DVD": "19 Aug 2014",
+      "BoxOffice": "$183,277,573",
+      "Production": "Sony Pictures",
+      "Website": "http://www.theamazingspiderman.com/site/",
+      "Response": "True"
+    },
+    "tt0454848": {
+      "Title": "Inside Man",
+      "Year": "2006",
+      "Rated": "R",
+      "Released": "24 Mar 2006",
+      "Runtime": "129 min",
+      "Genre": "Crime, Drama, Mystery, Thriller",
+      "Director": "Spike Lee",
+      "Writer": "Russell Gewirtz",
+      "Actors": "Denzel Washington, Clive Owen, Jodie Foster, Christopher Plummer",
+      "Plot": "From a cell, a man tells us he has planned the perfect bank robbery; he invites us to watch. An efficient gang enters a Manhattan bank, locks the doors, and takes hostages. They work deliberately, without haste. Detective Frazier is assigned to negotiate, but half his mind is occupied with the corruption charges he is facing. The bank's president has something to protect in a safe deposit box, so he brings in Madeleine White, a high-power broker with a hidden agenda. With an army of police surrounding the bank, the thief, the cop, and the plutocrat's fixer enter high-stakes negotiations. Why are the robbers asking for a plane, if they are so competent and they know they won't get one? Why aren't they in more of a hurry? If the job's perfect, why is the thieves' leader in a cell?",
+      "Language": "English, Albanian, Spanish",
+      "Country": "USA",
+      "Awards": "6 wins & 11 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjc4MjA2ZDgtOGY3YS00NDYzLTlmNTEtYWMxMzcwZjgzYWNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "7.6",
+      "imdbVotes": "314,193",
+      "imdbID": "tt0454848",
+      "Type": "movie",
+      "DVD": "08 Aug 2006",
+      "BoxOffice": "$88,439,515",
+      "Production": "Universal Pictures",
+      "Website": "http://theinsideman.net/",
+      "Response": "True"
+    },
+    "tt1068680": {
+      "Title": "Yes Man",
+      "Year": "2008",
+      "Rated": "PG-13",
+      "Released": "19 Dec 2008",
+      "Runtime": "104 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Peyton Reed",
+      "Writer": "Nicholas Stoller (screenplay), Jarrad Paul (screenplay), Andrew Mogel (screenplay), Danny Wallace (book)",
+      "Actors": "Jim Carrey, Zooey Deschanel, Bradley Cooper, John Michael Higgins",
+      "Plot": "Carl Allen is at a standstill. No future... Until the day he enrolls into a personal development program based on a very simple idea: say yes to everything! Carl discovers with amazement the magical power of \"Yes\", and sees his professional and romantic life turned upside down overnight: an unexpected promotion and a new girlfriend. But he'll soon discover that better can be good's enemy, and that all opportunities shouldn't be taken.",
+      "Language": "English, Korean, Estonian",
+      "Country": "USA, UK",
+      "Awards": "3 wins & 8 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzBmZTMzYmItNzhhMC00M2FkLWIxMGEtMjIxMjAwNmQ2ZmM4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "46%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "46/100"
+        }
+      ],
+      "Metascore": "46",
+      "imdbRating": "6.8",
+      "imdbVotes": "310,995",
+      "imdbID": "tt1068680",
+      "Type": "movie",
+      "DVD": "07 Apr 2009",
+      "BoxOffice": "$97,600,000",
+      "Production": "Warner Bros. Pictures/Village Roadshow",
+      "Website": "http://yesisthenewno.warnerbros.com/",
+      "Response": "True"
+    },
+    "tt0328107": {
+      "Title": "Man on Fire",
+      "Year": "2004",
+      "Rated": "R",
+      "Released": "23 Apr 2004",
+      "Runtime": "146 min",
+      "Genre": "Action, Crime, Drama, Thriller",
+      "Director": "Tony Scott",
+      "Writer": "A.J. Quinnell (novel), Brian Helgeland (screenplay)",
+      "Actors": "Denzel Washington, Dakota Fanning, Radha Mitchell, Christopher Walken",
+      "Plot": "Hard drinking, burnt out ex CIA operative John Creasy has given up on life until he's hired as a bodyguard to protect nine year old Pita Ramos. Bit by bit, Creasy begins to reclaim some of his soul, but when pita is kidnapped, Creasy's fiery rage is finally released and he will stop at nothing to save her as he sets out on a dangerous, revenge fuelled rescue mission.",
+      "Language": "English, Spanish",
+      "Country": "USA, UK, Mexico, Switzerland",
+      "Awards": "1 win & 7 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODFlMmEwMDgtYjhmZi00ZTE5LTk2NWQtMWE1Y2M0NjkzOGYxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "39%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "47/100"
+        }
+      ],
+      "Metascore": "47",
+      "imdbRating": "7.7",
+      "imdbVotes": "308,421",
+      "imdbID": "tt0328107",
+      "Type": "movie",
+      "DVD": "14 Sep 2004",
+      "BoxOffice": "$77,600,000",
+      "Production": "20th Century Fox",
+      "Website": "http://www.manonfiremovie.com/",
+      "Response": "True"
+    },
+    "tt5095030": {
+      "Title": "Ant-Man and the Wasp",
+      "Year": "2018",
+      "Rated": "PG-13",
+      "Released": "06 Jul 2018",
+      "Runtime": "118 min",
+      "Genre": "Action, Adventure, Comedy, Sci-Fi",
+      "Director": "Peyton Reed",
+      "Writer": "Chris McKenna, Erik Sommers, Paul Rudd, Andrew Barrer, Gabriel Ferrari, Stan Lee (based on the Marvel Comics by), Larry Lieber (based on the Marvel Comics by), Jack Kirby (based on the Marvel Comics by)",
+      "Actors": "Paul Rudd, Evangeline Lilly, Michael Peña, Walton Goggins",
+      "Plot": "In the aftermath of 'Captain America: Civil War,' Scott Lang grapples with the consequences of his choices as both a Super Hero and a father. As he struggles to re-balance his home life with his responsibilities as Ant-Man, he's confronted by Hope van Dyne and Dr. Hank Pym with an urgent new mission. Scott must once again put on the suit and learn to fight alongside The Wasp as the team works together to uncover secrets from their past.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "Metascore": "70",
+      "imdbRating": "7.1",
+      "imdbVotes": "251,030",
+      "imdbID": "tt5095030",
+      "Type": "movie",
+      "DVD": "16 Oct 2018",
+      "BoxOffice": "N/A",
+      "Production": "Walt Disney Pictures",
+      "Website": "https://marvel.com/antman",
+      "Response": "True"
+    },
+    "tt1638355": {
+      "Title": "The Man from U.N.C.L.E.",
+      "Year": "2015",
+      "Rated": "PG-13",
+      "Released": "14 Aug 2015",
+      "Runtime": "116 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Guy Ritchie",
+      "Writer": "Guy Ritchie (screenplay by), Lionel Wigram (screenplay by), Jeff Kleeman (story by), David C. Wilson (story by), Guy Ritchie (story by), Lionel Wigram (story by), Sam Rolfe (based on the television series created by)",
+      "Actors": "Henry Cavill, Armie Hammer, Alicia Vikander, Elizabeth Debicki",
+      "Plot": "In the 1960s with the Cold War in play, CIA agent Napoleon Solo successfully helps Gaby Teller defect to West Germany despite the intimidating opposition of KGB agent Illya Kuryakin. Later, all three unexpectedly find themselves working together in a joint mission to stop a private criminal organization from using Gaby's father's scientific expertise to construct their own nuclear bomb. Through clenched teeth and stylish poise, all three must find a way to cooperate for the sake of world peace, even as they each pursue their own agendas.",
+      "Language": "English, Russian, German, Italian",
+      "Country": "USA, UK",
+      "Awards": "7 wins & 5 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZmMWFhYmQtZDE5YS00YzBlLWJlOGEtYzAwNGU1YzVlYjZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "66%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "56/100"
+        }
+      ],
+      "Metascore": "56",
+      "imdbRating": "7.3",
+      "imdbVotes": "241,105",
+      "imdbID": "tt1638355",
+      "Type": "movie",
+      "DVD": "17 Nov 2015",
+      "BoxOffice": "$38,140,180",
+      "Production": "Warner Bros. Pictures",
+      "Website": "http://www.manfromuncle.com/",
+      "Response": "True"
+    },
+    "tt4633694": {
+      "Title": "Spider-Man: Into the Spider-Verse",
+      "Year": "2018",
+      "Rated": "PG",
+      "Released": "14 Dec 2018",
+      "Runtime": "117 min",
+      "Genre": "Animation, Action, Adventure, Family, Sci-Fi",
+      "Director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+      "Writer": "Phil Lord (screenplay by), Rodney Rothman (screenplay by), Phil Lord (story by)",
+      "Actors": "Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali",
+      "Plot": "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "8.5",
+      "imdbVotes": "226,536",
+      "imdbID": "tt4633694",
+      "Type": "movie",
+      "DVD": "26 Feb 2019",
+      "BoxOffice": "N/A",
+      "Production": "Sony Pictures",
+      "Website": "http://www.intothespiderverse.movie/",
+      "Response": "True"
+    },
+    "tt0118655": {
+      "Title": "Austin Powers: International Man of Mystery",
+      "Year": "1997",
+      "Rated": "PG-13",
+      "Released": "02 May 1997",
+      "Runtime": "89 min",
+      "Genre": "Adventure, Comedy",
+      "Director": "Jay Roach",
+      "Writer": "Mike Myers",
+      "Actors": "Mike Myers, Elizabeth Hurley, Michael York, Mimi Rogers",
+      "Plot": "Austin Powers is a 60's spy who is cryonically frozen and released in the 1990's. The world is a very different place for Powers. Unfortunately for Austin, everyone is no longer sex-mad. Although he may be in a different decade, his mission is still the same. He has teamed up with Vanessa Kensington to stop the evil Dr. Evil, who was also frozen in the past. Dr. Evil stole a nuclear weapon and is demanding a payment of (when he realises its the 90's) 100 billion dollars. Can Austin Powers stop this madman? or will he caught up with Evil's henchman, with names like Alotta Fagina and Random Task? Only time will tell!",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "3 wins & 6 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTRhZTY0MDItY2I1Yi00MGE3LTk1ZDEtMjA0ZGZhNDQyNGU0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "70%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "51/100"
+        }
+      ],
+      "Metascore": "51",
+      "imdbRating": "7.0",
+      "imdbVotes": "207,399",
+      "imdbID": "tt0118655",
+      "Type": "movie",
+      "DVD": "20 Oct 1997",
+      "BoxOffice": "N/A",
+      "Production": "New Line Home Entertainment",
+      "Website": "http://www.facebook.com/austinpowersmovie",
+      "Response": "True"
+    },
+    "tt0080678": {
+      "Title": "The Elephant Man",
+      "Year": "1980",
+      "Rated": "PG",
+      "Released": "10 Oct 1980",
+      "Runtime": "124 min",
+      "Genre": "Biography, Drama",
+      "Director": "David Lynch",
+      "Writer": "Christopher De Vore (screenplay), Eric Bergren (screenplay), David Lynch (screenplay), Frederick Treves (book), Ashley Montagu (in part on the book \"The Elephant Man: A Study in Human Dignity\")",
+      "Actors": "Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud",
+      "Plot": "John Merrick (whose real name was Joseph, as this is based on a true story) is an intelligent and friendly man, but he is hated by his Victorian-era English society because he is severely deformed. Once he is discovered by a doctor, however, he is saved from his life in a freak show and he is treated like the human being that he really is.",
+      "Language": "English",
+      "Country": "USA, UK",
+      "Awards": "Nominated for 8 Oscars. Another 10 wins & 13 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "77/100"
+        }
+      ],
+      "Metascore": "77",
+      "imdbRating": "8.2",
+      "imdbVotes": "200,700",
+      "imdbID": "tt0080678",
+      "Type": "movie",
+      "DVD": "11 Dec 2001",
+      "BoxOffice": "N/A",
+      "Production": "Paramount",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "tt1220719": {
+      "Title": "Ip Man",
+      "Year": "2008",
+      "Rated": "R",
+      "Released": "12 Dec 2008",
+      "Runtime": "106 min",
+      "Genre": "Action, Biography, Drama, History",
+      "Director": "Wilson Yip",
+      "Writer": "Edmond Wong (screenplay), Tai-lee Chan",
+      "Actors": "Donnie Yen, Simon Yam, Lynn Xiong, Hiroyuki Ikeuchi",
+      "Plot": "In 1935 in Foshan, south China, there are martial arts schools on every street corner. Ip Man is the undisputed martial arts champion, yet he has not devoted himself to teaching. Despite this, it seems that all the kung fu masters of the city are eager to fight him to improve their reputation.",
+      "Language": "Cantonese, Mandarin, Japanese",
+      "Country": "Hong Kong, China",
+      "Awards": "12 wins & 16 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTFmMjM3M2UtOTIyZC00Zjk3LTkzODUtYTdhNGRmNzFhYzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "8.0",
+      "imdbVotes": "196,415",
+      "imdbID": "tt1220719",
+      "Type": "movie",
+      "DVD": "31 Mar 2009",
+      "BoxOffice": "N/A",
+      "Production": "Well Go USA",
+      "Website": "http:// http://www.ipman-movie.com/",
+      "Response": "True"
+    },
+    "tt1155056": {
+      "Title": "I Love You, Man",
+      "Year": "2009",
+      "Rated": "R",
+      "Released": "20 Mar 2009",
+      "Runtime": "105 min",
+      "Genre": "Comedy, Romance",
+      "Director": "John Hamburg",
+      "Writer": "John Hamburg (screenplay), Larry Levin (screenplay), Larry Levin (story)",
+      "Actors": "Paul Rudd, Rashida Jones, Sarah Burns, Greg Levine",
+      "Plot": "Peter Klaven's world revolves around his real estate work and Zooey, his soon-to-be fiancée. After he pops the question, she calls her best friends and they go into wedding planning mode. Peter has no male friends and that poses problems: will he turn out to be a clingy guy, and who will be his best man? Zooey, her friends, and Peter's brother Robbie offer help that results in awkward moments. Then, at an open house Peter's hosting, he meets Sydney, an amiable, low-key guy. They trade business cards, and Peter calls him to meet for drinks. A friendship develops that's great at first but then threatens Peter's engagement and career. Can guys be friends and couples be in love?",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win & 8 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4MjI5NTEyNV5BMl5BanBnXkFtZTcwNjQ1NTMzMg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "Metascore": "70",
+      "imdbRating": "7.0",
+      "imdbVotes": "186,078",
+      "imdbID": "tt1155056",
+      "Type": "movie",
+      "DVD": "11 Aug 2009",
+      "BoxOffice": "$71,300,000",
+      "Production": "Dreamworks/Paramount",
+      "Website": "http://www.iloveyouman.com/",
+      "Response": "True"
+    },
+    "tt0352248": {
+      "Title": "Cinderella Man",
+      "Year": "2005",
+      "Rated": "PG-13",
+      "Released": "03 Jun 2005",
+      "Runtime": "144 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Ron Howard",
+      "Writer": "Cliff Hollingsworth (screenplay), Akiva Goldsman (screenplay), Cliff Hollingsworth (story)",
+      "Actors": "Russell Crowe, Renée Zellweger, Paul Giamatti, Craig Bierko",
+      "Plot": "During the Great Depression, a common-man hero, James J. Braddock--a.k.a. the Cinderella Man--was to become one of the most surprising sports legends in history. By the early 1930s, the impoverished ex-prizefighter was seemingly as broken-down, beaten-up and out-of-luck as much of the rest of the American populace who had hit rock bottom. His career appeared to be finished, he was unable to pay the bills, the only thing that mattered to him--his family--was in danger, and he was even forced to go on Public Relief. But deep inside, Jim Braddock never relinquished his determination. Driven by love, honor and an incredible dose the ones who are do of grit, he willed an impossible dream to come true. In a last-chance bid to help his family, Braddock returned to the ring. No one thought he had a shot. However Braddock, fueled by something beyond mere competition, kept winning. Suddenly, the ordinary working man became the mythic athlete. Carrying the hopes and dreams of the disenfranchised on his shoulders, Braddock rocketed through the ranks, until this underdog chose to do the unthinkable: take on the heavyweight champ of the world, the unstoppable Max Baer, renowned for having killed two men in the ring.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 3 Oscars. Another 16 wins & 41 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODEyYmQxZjUtZGQ0NS00ZTAwLTkwOGQtNGY2NzEwMWE0MDc3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "Metascore": "69",
+      "imdbRating": "8.0",
+      "imdbVotes": "166,961",
+      "imdbID": "tt0352248",
+      "Type": "movie",
+      "DVD": "06 Dec 2005",
+      "BoxOffice": "$61,600,000",
+      "Production": "Universal Pictures",
+      "Website": "http://www.cinderellamanmovie.com",
+      "Response": "True"
+    },
+    "tt0756683": {
+      "Title": "The Man from Earth",
+      "Year": "2007",
+      "Rated": "Not Rated",
+      "Released": "10 Jun 2007",
+      "Runtime": "87 min",
+      "Genre": "Drama, Fantasy, Sci-Fi",
+      "Director": "Richard Schenkman",
+      "Writer": "Jerome Bixby",
+      "Actors": "David Lee Smith, Tony Todd, John Billingsley, Ellen Crawford",
+      "Plot": "An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he has a longer and stranger past than they can imagine.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "5 wins & 1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ5NGQwOTUtNWJlZi00ZTFiLWI0ZTEtOGU3MTA2ZGU5OWZiXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "160,886",
+      "imdbID": "tt0756683",
+      "Type": "movie",
+      "DVD": "13 Nov 2007",
+      "BoxOffice": "N/A",
+      "Production": "STARZ MEDIA LLC.",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "tt0120744": {
+      "Title": "The Man in the Iron Mask",
+      "Year": "1998",
+      "Rated": "PG-13",
+      "Released": "13 Mar 1998",
+      "Runtime": "132 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Randall Wallace",
+      "Writer": "Alexandre Dumas (novels), Randall Wallace (screenplay)",
+      "Actors": "Leonardo DiCaprio, Jeremy Irons, John Malkovich, Gérard Depardieu",
+      "Plot": "Paris is starving, but the King of France is more interested in money and bedding women. When a young soldier dies for the sake of a shag, Aramis, Athos and Porthos band together with a plan to replace the king. Unknown to many, there is a 2nd king, a twin, hidden at birth, then imprisoned for 6 years behind an iron mask. All that remains now is D'Artagnan, will he stand against his long time friends, or do what is best for his country?",
+      "Language": "English, Italian",
+      "Country": "France, USA",
+      "Awards": "3 wins & 4 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjM2YzcxMmQtOTc2Mi00YjdhLWFlZjUtNmFmMDQzYzU2YTk5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "33%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "48/100"
+        }
+      ],
+      "Metascore": "48",
+      "imdbRating": "6.5",
+      "imdbVotes": "146,404",
+      "imdbID": "tt0120744",
+      "Type": "movie",
+      "DVD": "11 Aug 1998",
+      "BoxOffice": "N/A",
+      "Production": "MGM Home Entertainment",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "tt0106697": {
+      "Title": "Demolition Man",
+      "Year": "1993",
+      "Rated": "R",
+      "Released": "08 Oct 1993",
+      "Runtime": "115 min",
+      "Genre": "Action, Crime, Sci-Fi, Thriller",
+      "Director": "Marco Brambilla",
+      "Writer": "Peter M. Lenkov (story), Robert Reneau (story), Daniel Waters (screenplay), Robert Reneau (screenplay), Peter M. Lenkov (screenplay)",
+      "Actors": "Sylvester Stallone, Wesley Snipes, Sandra Bullock, Nigel Hawthorne",
+      "Plot": "Frozen in 1996, Simon Phoenix, a convicted crime lord, is revived for a parole hearing well into the 21st century. Revived into a society free from crime, Phoenix resumes his murderous rampage, and no one can stop him. John Spartan, the police officer who captured Phoenix in 1996, has also been cryogenically frozen, this time for a crime he did not commit. In 2032, the former cities of Los Angeles, San Diego and Santa Barbara have merged into peaceful, utopian San Angeles. Unable to stop him with their non-violent solutions, the police release Spartan to help recapture Phoenix. Now after 36 years, Spartan has to adapt himself to the future society he has no knowledge about.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win & 6 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBmNDhjOTYtZWVlMC00YzUwLWIyZjEtYzFjMWM5OTdiZDJkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "61%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "34/100"
+        }
+      ],
+      "Metascore": "34",
+      "imdbRating": "6.6",
+      "imdbVotes": "145,867",
+      "imdbID": "tt0106697",
+      "Type": "movie",
+      "DVD": "30 Sep 1997",
+      "BoxOffice": "N/A",
+      "Production": "Warner Home Video",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "tt0041959": {
+      "Title": "The Third Man",
+      "Year": "1949",
+      "Rated": "Not Rated",
+      "Released": "12 Oct 1949",
+      "Runtime": "93 min",
+      "Genre": "Film-Noir, Mystery, Thriller",
+      "Director": "Carol Reed",
+      "Writer": "Graham Greene (by), Graham Greene (screen play)",
+      "Actors": "Joseph Cotten, Alida Valli, Orson Welles, Trevor Howard",
+      "Plot": "An out of work pulp fiction novelist, Holly Martins, arrives in a post war Vienna divided into sectors by the victorious allies, and where a shortage of supplies has led to a flourishing black market. He arrives at the invitation of an ex-school friend, Harry Lime, who has offered him a job, only to discover that Lime has recently died in a peculiar traffic accident. From talking to Lime's friends and associates Martins soon notices that some of the stories are inconsistent, and determines to discover what really happened to Harry Lime.",
+      "Language": "English, German, Russian",
+      "Country": "UK",
+      "Awards": "Won 1 Oscar. Another 4 wins & 4 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "97/100"
+        }
+      ],
+      "Metascore": "97",
+      "imdbRating": "8.2",
+      "imdbVotes": "145,515",
+      "imdbID": "tt0041959",
+      "Type": "movie",
+      "DVD": "30 Nov 1999",
+      "BoxOffice": "N/A",
+      "Production": "Rialto Pictures",
+      "Website": "http://www.rialtopictures.com/thirdman",
+      "Response": "True"
+    },
+    "tt1568338": {
+      "Title": "Man on a Ledge",
+      "Year": "2012",
+      "Rated": "PG-13",
+      "Released": "27 Jan 2012",
+      "Runtime": "102 min",
+      "Genre": "Action, Adventure, Crime, Thriller",
+      "Director": "Asger Leth",
+      "Writer": "Pablo F. Fenjves",
+      "Actors": "Sam Worthington, Mandy Gonzalez, William Sadler, Barbara Marineau",
+      "Plot": "An ex-cop turned con threatens to jump to his death from a Manhattan hotel rooftop. The nearest New York Police officer immediately responds to a screaming woman and calls dispatch. More Officers arrive with SWAT and tactical command along with fire-fighters. The police then dispatch a police psychologist personally requested to talk him down from the ledge. However, things aren't as they seem.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MTE4MzY2N15BMl5BanBnXkFtZTcwNjMwNDc3Ng@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "32%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "40/100"
+        }
+      ],
+      "Metascore": "40",
+      "imdbRating": "6.6",
+      "imdbVotes": "137,718",
+      "imdbID": "tt1568338",
+      "Type": "movie",
+      "DVD": "29 May 2012",
+      "BoxOffice": "$18,400,000",
+      "Production": "Summit Entertainment",
+      "Website": "http://www.manonaledge.com",
+      "Response": "True"
+    },
+    "tt0454945": {
+      "Title": "She's the Man",
+      "Year": "2006",
+      "Rated": "PG-13",
+      "Released": "17 Mar 2006",
+      "Runtime": "105 min",
+      "Genre": "Comedy, Romance, Sport",
+      "Director": "Andy Fickman",
+      "Writer": "Ewan Leslie (screenplay), Karen McCullah (screenplay), Kirsten Smith (screenplay), Ewan Leslie (story)",
+      "Actors": "Amanda Bynes, Channing Tatum, Laura Ramsey, Vinnie Jones",
+      "Plot": "Here's the thing! Viola's soccer team at Cornwall gets cut. She wants to join the boys team, but they do not allow girls. So she thinks \"If you can't join them, beat them\". So she does! She disguises herself as her twin brother Sebastian, and goes out for the rival school, Illyria, boys' soccer team and makes it. Unfortunately, she didn't plan falling in love with her roommate Duke. But Duke has his eyes on Olivia. What makes matters worse is that Olivia starts to fall for Sebastian because he/she has a sensitive side. If things couldn't get more problematic, the real Sebastian (who was in London working on his music) comes home early. He arrives on campus and has no clue that he was replaced by his twin sister.",
+      "Language": "English",
+      "Country": "USA, Canada",
+      "Awards": "2 wins & 5 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTE0NDk1YzAtNTUwZC00NmViLWI3YjgtY2ZjYWI2YjYzZjkyXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "44%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "45/100"
+        }
+      ],
+      "Metascore": "45",
+      "imdbRating": "6.4",
+      "imdbVotes": "137,287",
+      "imdbID": "tt0454945",
+      "Type": "movie",
+      "DVD": "18 Jul 2006",
+      "BoxOffice": "$33,687,630",
+      "Production": "DreamWorks SKG",
+      "Website": "http://www.shestheman-themovie.com/",
+      "Response": "True"
+    },
+    "tt0093894": {
+      "Title": "The Running Man",
+      "Year": "1987",
+      "Rated": "R",
+      "Released": "13 Nov 1987",
+      "Runtime": "101 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Paul Michael Glaser",
+      "Writer": "Stephen King (novel), Steven E. de Souza (screenplay)",
+      "Actors": "Arnold Schwarzenegger, Maria Conchita Alonso, Yaphet Kotto, Jim Brown",
+      "Plot": "In the year 2017, the world economy has collapsed. The great freedoms of the United States are no longer, as the once great nation has sealed off its borders and become a militarized police state, censoring all film, art, literature, and communications. Even so, a small resistance force led by two revolutionaries manages to fight the oppression. With full control over the media, the government attempts to quell the nation's yearning for freedom by broadcasting a number of game shows on which convicted criminals fight for their lives. The most popular and sadistic of these programs is \"The Running Man,\" hosted by Damon Killian. When a peaceful protest of starving citizens gathers in Bakersfield, California, a police officer named Ben Richards is ordered to fire on the crowd, which he refuses to do. Subdued by the other officers, the attack is carried out, and Richards is framed for the murder of almost a hundred unarmed civilians. Following a daring jail break months later, Richards is captured once again and forced to appear on \"The Running Man\" with three other convicts. With their help, he fights his way through a cadre of sadistic gladiators hunting them down through the ruins of a Los Angeles earthquake, but not promising Killian that he'll return to settle the score when the show's host double-crosses him. In the meantime, the contestants must search through the ruins for the resistance in the hopes of finally broadcasting the truth about the government.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win & 3 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU4NzA2OWYtNGQ0MS00YWNkLTg4M2YtZjlkZmY1YmJjMDE4XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "62%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "45/100"
+        }
+      ],
+      "Metascore": "45",
+      "imdbRating": "6.7",
+      "imdbVotes": "130,515",
+      "imdbID": "tt0093894",
+      "Type": "movie",
+      "DVD": "25 May 1999",
+      "BoxOffice": "N/A",
+      "Production": "Vestron Video",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "tt1213641": {
+      "Title": "First Man",
+      "Year": "2018",
+      "Rated": "PG-13",
+      "Released": "12 Oct 2018",
+      "Runtime": "141 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Damien Chazelle",
+      "Writer": "Josh Singer (screenplay by), James R. Hansen (based on the book by)",
+      "Actors": "Ryan Gosling, Claire Foy, Jason Clarke, Kyle Chandler",
+      "Plot": "A Biopic on the life of the legendary American Astronaut Neil Armstrong from 1961-1969, on his journey to becoming the first human to walk the moon. Exploring the sacrifices and costs on the Nation and Neil himself, during one of the most dangerous missions in the history of space travel.",
+      "Language": "English",
+      "Country": "USA, Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBhOTMxN2UtYjllYS00NWNiLWE1MzAtZjg3NmExODliMDQ0XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "7.3",
+      "imdbVotes": "123,518",
+      "imdbID": "tt1213641",
+      "Type": "movie",
+      "DVD": "22 Jan 2019",
+      "BoxOffice": "N/A",
+      "Production": "Universal Pictures",
+      "Website": "http://www.firstman.com",
+      "Response": "True"
+    },
+    "tt1019452": {
+      "Title": "A Serious Man",
+      "Year": "2009",
+      "Rated": "R",
+      "Released": "06 Nov 2009",
+      "Runtime": "106 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Ethan Coen, Joel Coen",
+      "Writer": "Joel Coen, Ethan Coen",
+      "Actors": "Michael Stuhlbarg, Richard Kind, Fred Melamed, Sari Lennick",
+      "Plot": "Bloomington, Minnesota, 1967: Jewish physics lecturer Larry Gopnik is a serious and a very put-upon man. His daughter is stealing from him to save up for a nose job, his pot-head son, who gets stoned at his own bar-mitzvah, only wants him round to fix the TV aerial and his useless brother Arthur is an unwelcome house guest. But both Arthur and Larry get turfed out into a motel when Larry's wife Judy, who wants a divorce, moves her lover, Sy, into the house and even after Sy's death in a car crash they are still there. With lawyers' bills mounting for his divorce, Arthur's criminal court appearances and a land feud with a neighbour Larry is tempted to take the bribe offered by a student to give him an illegal exam pass mark. And the rabbis he visits for advice only dole out platitudes. Still God moves in mysterious - and not always pleasant - ways, as Larry and his family will find out.",
+      "Language": "English, Yiddish, Hebrew",
+      "Country": "USA, UK, France",
+      "Awards": "Nominated for 2 Oscars. Another 17 wins & 72 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGZkODlhMjktNzhhMC00YjFiLWJmODMtNjQwOGMzZjMxNTZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "7.1",
+      "imdbVotes": "122,285",
+      "imdbID": "tt1019452",
+      "Type": "movie",
+      "DVD": "09 Feb 2010",
+      "BoxOffice": "$9,190,525",
+      "Production": "Focus Features",
+      "Website": "http://www.facebook.com/ASeriousMan",
+      "Response": "True"
+    },
+    "tt0125664": {
+      "Title": "Man on the Moon",
+      "Year": "1999",
+      "Rated": "R",
+      "Released": "22 Dec 1999",
+      "Runtime": "118 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Milos Forman",
+      "Writer": "Scott Alexander, Larry Karaszewski",
+      "Actors": "Jim Carrey, Gerry Becker, Greyson Erik Pendry, Brittany Colonna",
+      "Plot": "Man on the Moon is a biographical movie on the late comedian Andy Kaufman. Kaufman, along with his role on Taxi (1978), was famous for being the self-declared Intergender Wrestling Champion of the world. After beating women time and time again, Jerry Lawler (who plays himself in the movie), a professional wrestler, got tired of seeing all of this and decided to challenge Kaufman to a match. In most of the matches the two had, Lawler prevailed with the piledriver, which is a move by spiking an opponent head-first into the mat. One of the most famous moments in this feud was in the early 80s when Kaufman threw coffee on Lawler on Late Night with David Letterman (1982), got into fisticuffs with Lawler, and proceeded to sue NBC.",
+      "Language": "English",
+      "Country": "UK, Germany, Japan, USA",
+      "Awards": "Won 1 Golden Globe. Another 4 wins & 23 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI1Mjc3MzAtZDk0OS00OTZlLTlhZjktNzA3ODgwZGY2NWIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "63%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "Metascore": "58",
+      "imdbRating": "7.4",
+      "imdbVotes": "116,984",
+      "imdbID": "tt0125664",
+      "Type": "movie",
+      "DVD": "30 May 2000",
+      "BoxOffice": "N/A",
+      "Production": "Universal",
+      "Website": "http://www.universalpictures.com/manonthemoon",
+      "Response": "True"
+    },
+    "tt0164052": {
+      "Title": "Hollow Man",
+      "Year": "2000",
+      "Rated": "R",
+      "Released": "04 Aug 2000",
+      "Runtime": "112 min",
+      "Genre": "Action, Horror, Sci-Fi, Thriller",
+      "Director": "Paul Verhoeven",
+      "Writer": "Gary Scott Thompson (story), Andrew W. Marlowe (story), Andrew W. Marlowe (screenplay)",
+      "Actors": "Elisabeth Shue, Kevin Bacon, Josh Brolin, Kim Dickens",
+      "Plot": "Having discovered they could turn animals invisible, a group of scientists test the subject on a human. Head of research, Dr. Sebastian Caine decides to use himself as the subject. After the experiment can't be reversed, it takes a toll on Caine's personality, causing him to hunt down and kill his colleagues",
+      "Language": "English",
+      "Country": "USA, Germany",
+      "Awards": "Nominated for 1 Oscar. Another 7 wins & 11 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTM1MjM2Y2QtOTMyOS00ZTE4LWFiZTEtMjBjMjg3NmE0ZjMxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "28%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "24/100"
+        }
+      ],
+      "Metascore": "24",
+      "imdbRating": "5.7",
+      "imdbVotes": "115,107",
+      "imdbID": "tt0164052",
+      "Type": "movie",
+      "DVD": "08 May 2001",
+      "BoxOffice": "$72,055,301",
+      "Production": "Columbia Pictures",
+      "Website": "http://www.spe.sony.com/movies/hollowman",
+      "Response": "True"
+    },
+    "tt6320628": {
+      "Title": "Spider-Man: Far from Home",
+      "Year": "2019",
+      "Rated": "PG-13",
+      "Released": "02 Jul 2019",
+      "Runtime": "129 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Jon Watts",
+      "Writer": "Chris McKenna, Stan Lee (based on the Marvel comic book by), Steve Ditko (based on the Marvel comic book by), Erik Sommers (screenplay by)",
+      "Actors": "Tom Holland, Samuel L. Jackson, Jake Gyllenhaal, Marisa Tomei",
+      "Plot": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+      "Language": "English, Italian, Czech",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "Metascore": "69",
+      "imdbRating": "8.0",
+      "imdbVotes": "110,832",
+      "imdbID": "tt6320628",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "Sony Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "tt0182789": {
+      "Title": "Bicentennial Man",
+      "Year": "1999",
+      "Rated": "PG",
+      "Released": "17 Dec 1999",
+      "Runtime": "132 min",
+      "Genre": "Comedy, Drama, Sci-Fi",
+      "Director": "Chris Columbus",
+      "Writer": "Isaac Asimov (short story \"The Bicentennial Man\"), Isaac Asimov (novel), Robert Silverberg (novel), Nicholas Kazan (screenplay)",
+      "Actors": "Robin Williams, Embeth Davidtz, Sam Neill, Oliver Platt",
+      "Plot": "This film follows the 'life' and times of the lead character, an android who is purchased as a household robot programmed to perform menial tasks. Within a few days the Martin family realizes that they don't have an ordinary droid as Andrew begins to experience emotions and creative thought. In a story that spans two centuries, Andrew learns the intricacies of humanity while trying to stop those who created him from destroying him.",
+      "Language": "English",
+      "Country": "USA, Germany",
+      "Awards": "Nominated for 1 Oscar. Another 2 wins & 7 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU4Nzg5YmItNzE0Yy00Y2VmLWI3OTYtNTFjODEzMDE0YTI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "36%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "42/100"
+        }
+      ],
+      "Metascore": "42",
+      "imdbRating": "6.9",
+      "imdbVotes": "102,584",
+      "imdbID": "tt0182789",
+      "Type": "movie",
+      "DVD": "15 Jan 2002",
+      "BoxOffice": "N/A",
+      "Production": "Buena Vista Pictures",
+      "Website": "http://movies.go.com/bicentennialman/index.html",
+      "Response": "True"
+    },
+    "tt1315981": {
+      "Title": "A Single Man",
+      "Year": "2009",
+      "Rated": "R",
+      "Released": "05 Feb 2010",
+      "Runtime": "99 min",
+      "Genre": "Drama, Romance",
+      "Director": "Tom Ford",
+      "Writer": "Christopher Isherwood (novel), Tom Ford (written for the screen by), David Scearce (written for the screen by)",
+      "Actors": "Colin Firth, Julianne Moore, Nicholas Hoult, Matthew Goode",
+      "Plot": "It's November 30, 1962. Native Brit George Falconer, an English professor at a Los Angeles area college, is finding it difficult to cope with life. Jim, his personal partner of sixteen years, died in a car accident eight months earlier when he was visiting with family. Jim's family were not going to tell George of the death or accident, let alone allow him to attend the funeral. This day, George has decided to get his affairs in order before he will commit suicide that evening. As he routinely and fastidiously prepares for the suicide and post suicide, George reminisces about his life with Jim. But George spends this day with various people, who see a man sadder than usual and who affect his own thoughts about what he is going to do. Those people include Carlos, a Spanish immigrant/aspiring actor/gigolo recently arrived in Los Angeles; Charley, his best friend who he knew from England, she who is a drama queen of a woman who romantically desires her best friend despite his sexual orientation; and Kenny Potter, one of his students, who seems to be curious about his professor beyond English class.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 36 wins & 55 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzU5MTk4MjQ2M15BMl5BanBnXkFtZTcwNDU0MzEwMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "77/100"
+        }
+      ],
+      "Metascore": "77",
+      "imdbRating": "7.6",
+      "imdbVotes": "99,478",
+      "imdbID": "tt1315981",
+      "Type": "movie",
+      "DVD": "06 Jul 2010",
+      "BoxOffice": "$9,098,668",
+      "Production": "The Weinstein Company",
+      "Website": "http://www.asingleman-movie.com/",
+      "Response": "True"
+    },
+    "tt0243133": {
+      "Title": "The Man Who Wasn't There",
+      "Year": "2001",
+      "Rated": "R",
+      "Released": "16 Nov 2001",
+      "Runtime": "116 min",
+      "Genre": "Crime, Drama",
+      "Director": "Joel Coen, Ethan Coen",
+      "Writer": "Joel Coen, Ethan Coen",
+      "Actors": "Billy Bob Thornton, Frances McDormand, Michael Badalucco, James Gandolfini",
+      "Plot": "1949, Santa Rosa, California. A laconic, chain-smoking barber with fallen arches tells a story of a man trying to escape a humdrum life. It's a tale of suspected adultery, blackmail, foul play, death, Sacramento city slickers, racial slurs, invented war heroics, shaved legs, a gamine piano player, aliens, and Heisenberg's uncertainty principle. Ed Crane cuts hair in his in-law's shop; his wife drinks and may be having an affair with her boss, Big Dave, who has $10,000 to invest in a second department store. Ed gets wind of a chance to make money in dry cleaning. Blackmail and investment are his opportunity to be more than a man no one notices. Settle in the chair and listen.",
+      "Language": "English, Italian, French",
+      "Country": "USA, UK",
+      "Awards": "Nominated for 1 Oscar. Another 24 wins & 41 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjEwMGZkYTgtMTA5Ny00OWFhLTgzMWItYjhhMWUxYTIxNDgwXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "7.6",
+      "imdbVotes": "97,467",
+      "imdbID": "tt0243133",
+      "Type": "movie",
+      "DVD": "16 Apr 2002",
+      "BoxOffice": "$7,408,031",
+      "Production": "USA Films",
+      "Website": "http://www.themanwhowasntthere.com",
+      "Response": "True"
+    },
+    "tt0218967": {
+      "Title": "The Family Man",
+      "Year": "2000",
+      "Rated": "PG-13",
+      "Released": "22 Dec 2000",
+      "Runtime": "125 min",
+      "Genre": "Comedy, Drama, Fantasy, Romance",
+      "Director": "Brett Ratner",
+      "Writer": "David Diamond, David Weissman",
+      "Actors": "Nicolas Cage, Téa Leoni, Don Cheadle, Jeremy Piven",
+      "Plot": "A modern-day Frank Capra story. Jack Campbell, a successful and talented businessman, is happily living his single life. He has everything, or so he thinks. One day he wakes up in a new life where he didn't leave his college girlfriend for a London trip. He's married to Kate, lives in Jersey and has two kids. He, of course, desperately wants his life back for which he has worked 13 years for. He's president of P. K. Lassiter Investment House and not a tire salesman at Big Ed's. He drives a Ferrari and not a mini-van that never starts. And most importantly he doesn't wake up in the morning with kids jumping on the bed. After a bad start, day by day he's more confident in his new life and starts to see what he's been missing. Turns out money's good to have but that's not everything.",
+      "Language": "English, Italian",
+      "Country": "USA",
+      "Awards": "4 wins & 6 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzYzMTQ4NDYtNWRkZi00NTYxLThlZDItMzI1MmU1MmU5ZWQ3XkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "53%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "42/100"
+        }
+      ],
+      "Metascore": "42",
+      "imdbRating": "6.8",
+      "imdbVotes": "97,310",
+      "imdbID": "tt0218967",
+      "Type": "movie",
+      "DVD": "17 Jul 2001",
+      "BoxOffice": "N/A",
+      "Production": "Universal Pictures",
+      "Website": "http://www.family-man.com",
+      "Response": "True"
+    },
+    "tt4034354": {
+      "Title": "Swiss Army Man",
+      "Year": "2016",
+      "Rated": "R",
+      "Released": "01 Jul 2016",
+      "Runtime": "97 min",
+      "Genre": "Adventure, Comedy, Drama, Fantasy, Romance",
+      "Director": "Dan Kwan, Daniel Scheinert",
+      "Writer": "Daniel Scheinert, Dan Kwan",
+      "Actors": "Paul Dano, Daniel Radcliffe, Mary Elizabeth Winstead, Antonia Ribero",
+      "Plot": "Hank, stranded on a deserted island and about to kill himself, notices a corpse washed up on the beach. He befriends it, naming it Manny, only to discover that his new friend can talk and has a myriad of supernatural abilities...which may help him get home.",
+      "Language": "English",
+      "Country": "USA, Sweden",
+      "Awards": "6 wins & 28 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0OTEyMjM1OF5BMl5BanBnXkFtZTgwMzMzODM4ODE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "7.0",
+      "imdbVotes": "91,688",
+      "imdbID": "tt4034354",
+      "Type": "movie",
+      "DVD": "04 Oct 2016",
+      "BoxOffice": "$4,208,879",
+      "Production": "Blackbird Films",
+      "Website": "http://swissarmyman.com/",
+      "Response": "True"
+    }
+  },
+  "totalResults": "9483",
+  "Response": "True"
+}
